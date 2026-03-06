@@ -8,4 +8,5 @@ window.location.href = "DATEU.HTML";
 
 function showGif(){
 document.getElementById("noResponse").style.display = "block";
+
 }
